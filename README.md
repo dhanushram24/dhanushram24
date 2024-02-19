@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushram24&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushram24" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I am currently in the last year of my Bachelor of Technology (B.Tech) program.
 
 - 💬 Ask me about **Coding, Programming , Web development**
 
