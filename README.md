@@ -16,7 +16,7 @@
 
 <!-- ANIMATED CODING GIF -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="50%"/>
 </div>
 
 <br/>
@@ -125,11 +125,6 @@ const dhanushRam = {
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhanushram24&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-### Contribution Streak
-<a href="https://github.com/dhanushram24">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushram24&theme=algolia" alt="dhanushram24" />
-</a>
-
 ### Detailed Stats
 <a href="https://github.com/dhanushram24">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanushram24&theme=algolia" />
@@ -150,26 +145,9 @@ const dhanushRam = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushram24&bg_color=050f2c&color=00d9ff&line=00d9ff&point=0a855c&area=true&hide_border=false&title_color=00d9ff" alt="GitHub Activity Graph"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- GITHUB TROPHIES -->
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanushram24&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- QUOTE -->
-## 💭 Random Dev Quote
+## 💭 Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
