@@ -1,8 +1,9 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhanush%20Ram&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,8,13,18,23&height=200&section=header&text=G%20Dhanush%20Ram&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20|%20Designer%20|%20Creator&descSize=20&descAlignY=55" width="100%"/>
+  
+  <h3>✨ Welcome to my GitHub Profile ✨</h3>
 </div>
-
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%92%A1;Building+Scalable+Solutions+%E2%9C%A8" alt="Typing SVG" />
@@ -147,7 +148,7 @@ const dhanushRam = {
 
 
 <!-- QUOTE -->
-## 💭 Dev Quote
+## 💭 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
